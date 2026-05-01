@@ -87,6 +87,3 @@ print(quest.GetProgressRatio()) -- 0.1
 - `GetTracker(id)`: Retrieves a tracker by ID.
 - `RemoveTracker(id)`: Removes a tracker.
 - `Dismount()`: Manually cleans up the session and marks trackers as "Abandoned".
-
----
-*Vigil was built for high-performance mission tracking with a focus on developer experience.*
